@@ -1,2 +1,2 @@
-# SA
+# SORTING ALGO
 Sorting Algorithms
