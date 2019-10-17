@@ -40,6 +40,7 @@ int main() {
 
 	cout << "Give the number of elements: ";
 	cin >> n;
+	v = new int[n];
 
 	cout << "Give the numbers ";
 	for (int i = 0; i < n; i++) {
