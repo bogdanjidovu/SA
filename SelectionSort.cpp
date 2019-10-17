@@ -28,17 +28,10 @@ void print(int* v, int n) {
 
 int main() {
 	int n, *v;
-<<<<<<< HEAD
 
 	cout << "Give the number of elements: ";
 	cin >> n;
 	v = new int[n];
-=======
-	v = new int[n];
-
-	cout << "Give the number of elements: ";
-	cin >> n;
->>>>>>> 8510e6fd973365a1501b01257f84b3913c3dbbdc
 
 	cout << "Give the numbers: ";
 	for (int i = 0; i < n; i++) {
